@@ -1,0 +1,35 @@
+{
+  "files": {
+    "main.css": "/static/css/main.c1a6fca1.css",
+    "main.js": "/static/js/main.2dc310fc.js",
+    "static/js/787.00e5b8a9.chunk.js": "/static/js/787.00e5b8a9.chunk.js",
+    "static/media/me.jpg": "/static/media/me.c42bb9749c6796900d57.jpg",
+    "static/media/Avenir-Black.otf": "/static/media/Avenir-Black.7ce894e12078ca8c5134.otf",
+    "static/media/Avenir-Book.otf": "/static/media/Avenir-Book.813557df4c7a90b1a474.otf",
+    "static/media/Avenir-Roman.otf": "/static/media/Avenir-Roman.0bfb049d9455e81fd1da.otf",
+    "static/media/windows.svg": "/static/media/windows.48de53443cf6a46c70d7425d76af97e1.svg",
+    "static/media/php.svg": "/static/media/php.48c4042b9114b54009a4b8a1a0225aa2.svg",
+    "static/media/android.svg": "/static/media/android.76993dbee0471534b2ba18af077ac6e4.svg",
+    "static/media/apple.svg": "/static/media/apple.ba836aaf62c7a02caf73df00f58681a7.svg",
+    "static/media/web.svg": "/static/media/web.6a499175587196c60bf79c58036f8fa3.svg",
+    "static/media/react.svg": "/static/media/react.b8c8f0ca03c5a1fb6727b934c84415d4.svg",
+    "static/media/c++.svg": "/static/media/c++.5eb1abc418ed3dd0e1d217f2e5fb2d1e.svg",
+    "static/media/java.svg": "/static/media/java.5386b56c3206b6bd70b1053534d73dc3.svg",
+    "static/media/c-sharp.svg": "/static/media/c-sharp.9c286f0304c08db19ccd9386e240ab41.svg",
+    "static/media/css.svg": "/static/media/css.d2b555b1acd67c259957af328b341870.svg",
+    "static/media/net.svg": "/static/media/net.b4a1f214e0667e233ce63e039e7066ca.svg",
+    "static/media/python.svg": "/static/media/python.026a62687ef705a39cfc755d7457859c.svg",
+    "static/media/javascript.svg": "/static/media/javascript.081325c6f229605dce15142ddd948d6d.svg",
+    "static/media/html.svg": "/static/media/html.aff8a9cb398fc75e4f21dab1ba1e097e.svg",
+    "index.html": "/index.html",
+    "static/media/linkedin.svg": "/static/media/linkedin.8762f6e957e5d6c297b9cbc434ecf218.svg",
+    "static/media/gmail.svg": "/static/media/gmail.cf6e9da6207069eaa596237538127bcb.svg",
+    "main.c1a6fca1.css.map": "/static/css/main.c1a6fca1.css.map",
+    "main.2dc310fc.js.map": "/static/js/main.2dc310fc.js.map",
+    "787.00e5b8a9.chunk.js.map": "/static/js/787.00e5b8a9.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.c1a6fca1.css",
+    "static/js/main.2dc310fc.js"
+  ]
+}
