@@ -1,7 +1,7 @@
 {
   "files": {
     "main.css": "/static/css/main.c1a6fca1.css",
-    "main.js": "/static/js/main.2dc310fc.js",
+    "main.js": "/static/js/main.8d1b02c5.js",
     "static/js/787.00e5b8a9.chunk.js": "/static/js/787.00e5b8a9.chunk.js",
     "static/media/me.jpg": "/static/media/me.c42bb9749c6796900d57.jpg",
     "static/media/Avenir-Black.otf": "/static/media/Avenir-Black.7ce894e12078ca8c5134.otf",
@@ -19,17 +19,17 @@
     "static/media/css.svg": "/static/media/css.d2b555b1acd67c259957af328b341870.svg",
     "static/media/net.svg": "/static/media/net.b4a1f214e0667e233ce63e039e7066ca.svg",
     "static/media/python.svg": "/static/media/python.026a62687ef705a39cfc755d7457859c.svg",
+    "index.html": "/index.html",
     "static/media/javascript.svg": "/static/media/javascript.081325c6f229605dce15142ddd948d6d.svg",
     "static/media/html.svg": "/static/media/html.aff8a9cb398fc75e4f21dab1ba1e097e.svg",
-    "index.html": "/index.html",
     "static/media/linkedin.svg": "/static/media/linkedin.8762f6e957e5d6c297b9cbc434ecf218.svg",
     "static/media/gmail.svg": "/static/media/gmail.cf6e9da6207069eaa596237538127bcb.svg",
     "main.c1a6fca1.css.map": "/static/css/main.c1a6fca1.css.map",
-    "main.2dc310fc.js.map": "/static/js/main.2dc310fc.js.map",
+    "main.8d1b02c5.js.map": "/static/js/main.8d1b02c5.js.map",
     "787.00e5b8a9.chunk.js.map": "/static/js/787.00e5b8a9.chunk.js.map"
   },
   "entrypoints": [
     "static/css/main.c1a6fca1.css",
-    "static/js/main.2dc310fc.js"
+    "static/js/main.8d1b02c5.js"
   ]
 }
